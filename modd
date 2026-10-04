@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "My Custom Keyboard Sounds",
+  "version": "1.0",
+  "icon": "icon.png",
+  "gx_mods": {
+    "sounds": {
+      "keyboard_sounds": {
+        "folder": "sounds"
+      }
+    }
+  }
+}
